@@ -1,0 +1,3 @@
+function veryBadFunction() {
+	return false;
+}
